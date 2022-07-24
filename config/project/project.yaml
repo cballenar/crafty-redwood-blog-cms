@@ -1,4 +1,4 @@
-dateModified: 1658680785
+dateModified: 1658680956
 email:
   fromEmail: blog@crunchyweb.com
   fromName: Blog
@@ -10,8 +10,9 @@ meta:
     50c4b33b-56ad-494c-aae2-9566fc5568f6: Blog # Blog
     71d02a3d-2980-4cb9-b32c-8651fa62af69: Default # Default
     555288a5-f277-48d0-96bf-81bb27b90d10: Common # Common
+    a39b527d-3723-4248-8a16-3ed4ab03f1fc: 'Public Schema' # Public Schema
 system:
-  edition: solo
+  edition: pro
   live: true
   name: Blog
   schemaVersion: 4.0.0.9
