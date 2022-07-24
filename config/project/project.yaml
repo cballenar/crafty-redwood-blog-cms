@@ -1,0 +1,22 @@
+dateModified: 1658677055
+email:
+  fromEmail: blog@crunchyweb.com
+  fromName: Blog
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    5b656a20-fa07-448f-b638-6c5808327239: Blog
+    50c4b33b-56ad-494c-aae2-9566fc5568f6: Blog
+    555288a5-f277-48d0-96bf-81bb27b90d10: Common
+system:
+  edition: solo
+  live: true
+  name: Blog
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

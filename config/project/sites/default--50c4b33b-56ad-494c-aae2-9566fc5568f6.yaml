@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: Blog
+primary: true
+siteGroup: 5b656a20-fa07-448f-b638-6c5808327239
+sortOrder: 1
