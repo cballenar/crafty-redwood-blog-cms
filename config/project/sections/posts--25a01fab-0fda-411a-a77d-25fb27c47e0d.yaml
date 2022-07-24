@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: posts
+name: Posts
+propagationMethod: all
+siteSettings:
+  50c4b33b-56ad-494c-aae2-9566fc5568f6: # Blog
+    enabledByDefault: true
+    hasUrls: true
+    template: posts/_entry
+    uriFormat: 'posts/{slug}'
+type: channel

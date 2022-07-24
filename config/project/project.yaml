@@ -1,13 +1,15 @@
-dateModified: 1658677055
+dateModified: 1658680785
 email:
   fromEmail: blog@crunchyweb.com
   fromName: Blog
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
-    5b656a20-fa07-448f-b638-6c5808327239: Blog
-    50c4b33b-56ad-494c-aae2-9566fc5568f6: Blog
-    555288a5-f277-48d0-96bf-81bb27b90d10: Common
+    5b656a20-fa07-448f-b638-6c5808327239: Blog # Blog
+    25a01fab-0fda-411a-a77d-25fb27c47e0d: Posts # Posts
+    50c4b33b-56ad-494c-aae2-9566fc5568f6: Blog # Blog
+    71d02a3d-2980-4cb9-b32c-8651fa62af69: Default # Default
+    555288a5-f277-48d0-96bf-81bb27b90d10: Common # Common
 system:
   edition: solo
   live: true
