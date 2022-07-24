@@ -1,0 +1,5 @@
+isPublic: false
+name: Posts
+scope:
+  - 'sections.25a01fab-0fda-411a-a77d-25fb27c47e0d:read' # Posts
+  - 'entrytypes.71d02a3d-2980-4cb9-b32c-8651fa62af69:read' # Default
